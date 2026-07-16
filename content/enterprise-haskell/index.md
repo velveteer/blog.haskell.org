@@ -1,20 +1,19 @@
 +++
 title = "Enterprise Haskell at H-E-B"
-description = "The trials and tribulations of modernizing a legacy supply chain with Haskell"
+description = "How Haskell earned its place in H-E-B's supply chain."
 date = 2026-07-16
 [taxonomies]
 authors = ["Joshua Miller"]
-categories = ["Production"]
-tags = ["Haskell in production", "H-E-B"]
+categories = ["Haskellers from the trenches"]
+tags = ["Production", "H-E-B"]
 +++
 
-How Haskell earned its place in H-E-B's supply chain.
-
-<!-- more -->
++*This article is the second installment of our series "[Haskellers from the trenches]",
++where we invite experienced engineers to talk about their subjects of expertise, best practices, and production tales with Haskell*
 
 ## The mainframe problem
 
-When I joined H-E-B back in 2018, I was entering a world far removed from any
+When I joined [H-E-B](https://www.heb.com) back in 2018, I was entering a world far removed from any
 of my previous roles in technology. H-E-B is a _retail_ company first, and the
 largest privately held company in Texas. Our customers care about full shelves,
 not the systems behind them, and for decades those systems delivered:
@@ -338,3 +337,5 @@ feedback loop that rejects hallucinated code before it runs.
 
 We need more stories of Haskell's success, and I am grateful that the Haskell
 Foundation is making the effort to bring them to light.
+
+[Haskellers from the trenches]: /categories/haskellers-from-the-trenches/
