@@ -8,8 +8,8 @@ categories = ["Haskellers from the trenches"]
 tags = ["Production", "H-E-B"]
 +++
 
-+*This article is the second installment of our series "[Haskellers from the trenches]",
-+where we invite experienced engineers to talk about their subjects of expertise, best practices, and production tales with Haskell*
+*This article is the second installment of our series "[Haskellers from the trenches]",
+where we invite experienced engineers to talk about their subjects of expertise, best practices, and production tales with Haskell*
 
 ## The mainframe problem
 
